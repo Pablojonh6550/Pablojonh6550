@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/">  Hey, I am Jonh Pablo <img src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif" width="60px"><a/>
 
-  <label><h3>Welcome to my profile ヾ(⌐■_■)ノ</h3></label>
+### <label>Welcome to my profile ヾ(⌐■_■)ノ</label>
   
 <img style = "margin-top: 40px;" align="right" width = "width" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
   
@@ -30,9 +30,17 @@
 <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=pablojonh6550&style=for-the-badge" width="100px" /></a>
 </p>
  
-<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Stats <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+### <label align="left"> My Stats </label>
+
 <div align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablojonh6550&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pablojonh6550&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-</div><br>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablojonh6550&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
+</div>
+
+### Social Networks
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Unordestino)](https://github.com/Pablojonh6550)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idavisilveira/)](https://www.linkedin.com/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&l&logo=instagram&logoColor=white&link=https://www.instagram.com/dav1_souza/)](https://www.instagram.com/pablojonh_/)
+
+![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
 
