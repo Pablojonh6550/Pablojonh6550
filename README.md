@@ -6,7 +6,7 @@
   
 ##
 - 💻 Web Developer
-- :mortar_board: Analysis and systems development
+- :mortar_board: Analysis and systems development 2/6
 - 🤓 Another geek lover of technology and fiction.
 ##
 
