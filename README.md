@@ -1,4 +1,4 @@
-# <p>  Hey, I am Jonh Pablo <img src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif" width="20px"><p/>
+# <p>  Hey, I am Jonh Pablo <img src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif" width="5px"><p/>
 
 ### <label>Welcome to my profile ヾ(⌐■_■)ノ</label>
   
