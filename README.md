@@ -6,7 +6,7 @@
   
 ##
 - 💻 Web Developer
-- :mortar_board: Analysis and systems development 3/6
+- :mortar_board: Analysis and systems development 4/6
 - 🤓 Another geek lover of technology and fiction.
 ##
 
@@ -17,8 +17,6 @@
   <img align="center" alt="Jonh-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Jonh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jonh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jonh-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Jonh-C-plus-plus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 </div>
 <br>
 <p align="left">
