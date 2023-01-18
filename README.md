@@ -33,7 +33,7 @@
 
 <div align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablojonh6550&show_icons=true&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablojonh6550&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=default&langs_count=8&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablojonh6550&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&card_width=120&langs_count=8&theme=tokyonight"/>
   
 </div>
 
