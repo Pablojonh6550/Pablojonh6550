@@ -32,8 +32,8 @@
 ### <label align="left"> My Stats </label>
 
 <div align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablojonh6550&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablojonh6550&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&langs_count=8&layout=compact&theme=tokyonight"/>	
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablojonh6550&show_icons=true&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablojonh6550&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&hide_border=true&langs_count=8&layout=compact&theme=tokyonight"/>	
   
 </div>
 
