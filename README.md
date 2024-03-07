@@ -20,7 +20,7 @@
   <img align="center" alt="Jonh-React" height="40" width="40" src="https://skillicons.dev/icons?i=nextjs">
   <img align="center" alt="Jonh-React" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs">
   <img align="center" alt="Jonh-Laravel" height="40" width="40" src="https://skillicons.dev/icons?i=laravel">
-  <img align="center" alt="Jonh-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=bootstrap">
+  <img style="margin-top: 3px;" align="center" alt="Jonh-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=bootstrap">
   <img align="center" alt="Jonh-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=tailwind">
 </div>
 <br>
