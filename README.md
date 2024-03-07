@@ -14,13 +14,14 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Jonh-HTML" height="40" width="40" src="https://skillicons.dev/icons?i=html">
   <img align="center" alt="Jonh-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=css">
-  <img align="center" alt="Jonh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jonh-php" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
-  <img align="center" alt="Jonh-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jonh-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Jonh-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Jonh-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Jonh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Jonh-Js" height="40" width="40" src="https://skillicons.dev/icons?i=js">
+  <img align="center" alt="Jonh-php" height="40" width="40" src="https://skillicons.dev/icons?i=php">
+  <img align="center" alt="Jonh-React" height="40" width="40" src="https://skillicons.dev/icons?i=react">
+  <img align="center" alt="Jonh-React" height="40" width="40" src="https://skillicons.dev/icons?i=nextjs">
+  <img align="center" alt="Jonh-React" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs">
+  <img align="center" alt="Jonh-Laravel" height="40" width="40" src="https://skillicons.dev/icons?i=laravel">
+  <img align="center" alt="Jonh-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=bootstrap">
+  <img align="center" alt="Jonh-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=tailwind">
 </div>
 <br>
 <p align="left">
