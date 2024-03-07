@@ -2,7 +2,7 @@
 
 ### <label>Welcome to my profile ヾ(⌐■_■)ノ</label>
   
-<img style = "margin-top: 20px;" align="right" width = "width" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+<img style="margin-top: 20px;" align="right" width = "width" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
   
 ##
 - 💻 Web Developer
