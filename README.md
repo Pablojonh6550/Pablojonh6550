@@ -32,6 +32,13 @@
   <img align="center" alt="Jonh-Laravel" height="40" width="40" src="https://skillicons.dev/icons?i=laravel">
 </div>
 
+<h3>Back-end:</h3>
+<div style="display: inline_block">
+  <img align="center" alt="Jonh-php" height="40" width="40" src="https://skillicons.dev/icons?i=mysql">
+  <img align="center" alt="Jonh-React" height="40" width="40" src="https://skillicons.dev/icons?i=mongodb">
+  <img align="center" alt="Jonh-Laravel" height="40" width="40" src="https://skillicons.dev/icons?i=laravel">
+</div>
+
 ##
 
 <br>
