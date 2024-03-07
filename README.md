@@ -53,8 +53,6 @@
 
 ##
 
-<br>
-
 ### <label align="left"> My Stats </label>
 
 <div align="left">
