@@ -25,7 +25,7 @@
   <img align="center" alt="Jonh-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=tailwind">
 </div>
 
-<h3>Database:</h3>
+<h3>Back-end:</h3>
 <div style="display: inline_block">
   <img align="center" alt="Jonh-php" height="40" width="40" src="https://skillicons.dev/icons?i=php">
   <img align="center" alt="Jonh-Laravel" height="40" width="40" src="https://skillicons.dev/icons?i=laravel">
@@ -33,7 +33,7 @@
   <img align="center" alt="Jonh-Laravel" height="40" width="40" src="https://skillicons.dev/icons?i=express">
 </div>
 
-<h3>Back-end:</h3>
+<h3>Database</h3>
 <div style="display: inline_block">
   <img align="center" alt="Jonh-php" height="40" width="40" src="https://skillicons.dev/icons?i=mysql">
   <img align="center" alt="Jonh-React" height="40" width="40" src="https://skillicons.dev/icons?i=mongodb">
