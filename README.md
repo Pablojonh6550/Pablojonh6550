@@ -12,6 +12,7 @@
 
 ### Languages and Tools
 <div style="display: inline_block"><br>
+  ### -> Front-end:
   <img align="center" alt="Jonh-HTML" height="40" width="40" src="https://skillicons.dev/icons?i=html">
   <img align="center" alt="Jonh-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=css">
   <img align="center" alt="Jonh-Js" height="40" width="40" src="https://skillicons.dev/icons?i=js">
