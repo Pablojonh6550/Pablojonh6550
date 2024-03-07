@@ -53,6 +53,12 @@
 
 ##
 
+### <label align="left"> Outside of the development world, I am </label>
+
+<p>🎮 Playing video games, immersing myself in virtual worlds and challenging my skills.</p>
+<p>🎵 Enjoying music and diving into eclectic playlists.</p>
+<p>📖</p>
+
 ### <label align="left"> My Stats </label>
 
 <div align="left">
