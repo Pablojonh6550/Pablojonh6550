@@ -33,11 +33,20 @@
   <img align="center" alt="Jonh-Laravel" height="40" width="40" src="https://skillicons.dev/icons?i=express">
 </div>
 
-<h3>Database</h3>
+<h3>Database:</h3>
 <div style="display: inline_block">
   <img align="center" alt="Jonh-php" height="40" width="40" src="https://skillicons.dev/icons?i=mysql">
   <img align="center" alt="Jonh-React" height="40" width="40" src="https://skillicons.dev/icons?i=mongodb">
   <img align="center" alt="Jonh-Laravel" height="40" width="40" src="https://skillicons.dev/icons?i=firebase">
+</div>
+
+<h3>Tools:</h3>
+<div style="display: inline_block">
+  <img align="center" alt="Jonh-php" height="40" width="40" src="https://skillicons.dev/icons?i=git">
+  <img align="center" alt="Jonh-React" height="40" width="40" src="https://skillicons.dev/icons?i=github">
+  <img align="center" alt="Jonh-Laravel" height="40" width="40" src="https://skillicons.dev/icons?i=bitbucket">
+  <img align="center" alt="Jonh-Laravel" height="40" width="40" src="https://skillicons.dev/icons?i=docker">
+  <img align="center" alt="Jonh-Laravel" height="40" width="40" src="https://skillicons.dev/icons?i=vscode">
 </div>
 
 ##
