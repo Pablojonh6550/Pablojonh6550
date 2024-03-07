@@ -19,6 +19,7 @@
   <img align="center" alt="Jonh-HTML" height="40" width="40" src="https://skillicons.dev/icons?i=html">
   <img align="center" alt="Jonh-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=css">
   <img align="center" alt="Jonh-Js" height="40" width="40" src="https://skillicons.dev/icons?i=js">
+  <img align="center" alt="Jonh-Js" height="40" width="40" src="https://skillicons.dev/icons?i=jquery">
   <img align="center" alt="Jonh-React" height="40" width="40" src="https://skillicons.dev/icons?i=react">
   <img align="center" alt="Jonh-React" height="40" width="40" src="https://skillicons.dev/icons?i=nextjs">
   <img align="center" alt="Jonh-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=bootstrap">
