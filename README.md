@@ -13,7 +13,8 @@
 ### Languages and Tools
 
 ##
-- <h3>Front-end:</h3>
+<h3>Front-end:</h3>
+
 <div style="display: inline_block">
   <img align="center" alt="Jonh-HTML" height="40" width="40" src="https://skillicons.dev/icons?i=html">
   <img align="center" alt="Jonh-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=css">
@@ -23,16 +24,15 @@
   <img align="center" alt="Jonh-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=bootstrap">
   <img align="center" alt="Jonh-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=tailwind">
 </div>
-##
-  
-<div style="display: inline_block"><br>
 
-<img align="center" alt="Jonh-php" height="40" width="40" src="https://skillicons.dev/icons?i=php">
-
-<img align="center" alt="Jonh-React" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs">
-<img align="center" alt="Jonh-Laravel" height="40" width="40" src="https://skillicons.dev/icons?i=laravel">
-
+<h3>Back-end:</h3>
+<div style="display: inline_block">
+  <img align="center" alt="Jonh-php" height="40" width="40" src="https://skillicons.dev/icons?i=php">
+  <img align="center" alt="Jonh-React" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs">
+  <img align="center" alt="Jonh-Laravel" height="40" width="40" src="https://skillicons.dev/icons?i=laravel">
 </div>
+##
+
 <br>
 <p align="left">
  <a href="https://github.com/pablojonh6550?tab=repositories&sort=stargazers">
