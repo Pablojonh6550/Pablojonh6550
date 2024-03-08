@@ -59,6 +59,8 @@
 - <p>🎵 Enjoying music and diving into eclectic playlists.</p>
 - <p>📖 Immersed in other worlds and exercising my creativity.</p>
 
+##
+
 ### <label align="left"> My Stats </label>
 
 <div align="left">
