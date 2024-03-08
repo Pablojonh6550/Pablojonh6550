@@ -55,9 +55,9 @@
 
 ### <label align="left"> Outside of the development world, I am </label>
 
-<p>🎮 Playing video games, immersing myself in virtual worlds and challenging my skills.</p>
-<p>🎵 Enjoying music and diving into eclectic playlists.</p>
-<p>📖 Immersed in other worlds and exercising my creativity.</p>
+- <p>🎮 Playing video games, immersing myself in virtual worlds and challenging my skills.</p>
+- <p>🎵 Enjoying music and diving into eclectic playlists.</p>
+- <p>📖 Immersed in other worlds and exercising my creativity.</p>
 
 ### <label align="left"> My Stats </label>
 
