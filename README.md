@@ -4,7 +4,6 @@
   
 <img style="margin-top: 20px;" align="right" width = "width" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
   
-##
 - 💻 Web Developer
 - :mortar_board: Analysis and systems development 
 - 🤓 Another geek lover of technology and fiction.
@@ -12,7 +11,6 @@
 
 ### Languages and Tools
 
-##
 <h3>Front-end:</h3>
 
 <div style="display: inline_block">
