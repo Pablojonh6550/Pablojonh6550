@@ -66,10 +66,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablojonh6550&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
+##
+
 ### Social Networks
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Pablojonh6550)](https://github.com/Pablojonh6550)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&l&logo=instagram&logoColor=white&link=https://www.instagram.com/pablojonh_/)](https://www.instagram.com/pablojonh_/)
+
+##
 
 ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
 
