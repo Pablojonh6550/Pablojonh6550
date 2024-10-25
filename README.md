@@ -68,7 +68,7 @@
 ##
 
 ### Social Networks
-<a href="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Pablojonh6550">teste</a>
+<a href="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Pablojonh6550"><img align="center" alt="Jonh-insta" height="40" width="40" src="https://skillicons.dev/icons?i=instagram"></a>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Pablojonh6550)](https://github.com/Pablojonh6550)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&l&logo=instagram&logoColor=white&link=https://www.instagram.com/pablojonh_/)](https://www.instagram.com/pablojonh_/)
