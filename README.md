@@ -46,6 +46,7 @@
   <img align="center" alt="Jonh-Laravel" height="40" width="40" src="https://skillicons.dev/icons?i=docker">
   <img align="center" alt="Jonh-Laravel" height="40" width="40" src="https://skillicons.dev/icons?i=vscode">
   <img align="center" alt="Jonh-Laravel" height="40" width="40" src="https://skillicons.dev/icons?i=figma">
+  <img align="center" alt="Jonh-Laravel" height="40" width="40" src="https://skillicons.dev/icons?i=linux">
 </div>
 
 ##
