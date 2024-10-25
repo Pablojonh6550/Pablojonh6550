@@ -69,9 +69,9 @@
 
 ### Social Networks
 
-<a href="https://github.com/Pablojonh6550"><img align="center" alt="Jonh-insta" height="40" width="40" src="https://skillicons.dev/icons?i=github"></a>
-<a href="https://www.linkedin.com/in/jonh-pablo"><img align="center" alt="Jonh-insta" height="40" width="40" src="https://skillicons.dev/icons?i=linkedin"></a>
-<a href="https://www.instagram.com/pablojonh_/"><img align="center" alt="Jonh-insta" height="40" width="40" src="https://skillicons.dev/icons?i=instagram"></a>
+<a href="https://github.com/Pablojonh6550" target="_blank"><img align="center" alt="Jonh-insta" height="40" width="40" src="https://skillicons.dev/icons?i=github"></a>
+<a href="https://www.linkedin.com/in/jonh-pablo" target="_blank"><img align="center" alt="Jonh-insta" height="40" width="40" src="https://skillicons.dev/icons?i=linkedin"></a>
+<a href="https://www.instagram.com/pablojonh_/" target="_blank"><img align="center" alt="Jonh-insta" height="40" width="40" src="https://skillicons.dev/icons?i=instagram"></a>
 
 ##
 
