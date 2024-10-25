@@ -2,8 +2,6 @@
 
 ### <label>Welcome to my profile ヾ(⌐■_■)ノ</label>
   
-<img style="margin-top: 90px;" align="right" width = "width" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
-  
 - 💻 Web Developer
 - :mortar_board: Analysis and systems development 
 - 🤓 Another geek lover of technology and fiction.
