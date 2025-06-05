@@ -21,6 +21,7 @@
   <img align="center" alt="Jonh-React" height="40" width="40" src="https://skillicons.dev/icons?i=nextjs">
   <img align="center" alt="Jonh-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=bootstrap">
   <img align="center" alt="Jonh-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=tailwind">
+  <img align="center" alt="Jonh-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=vite">
 </div>
 
 <h3>Back-end:</h3>
