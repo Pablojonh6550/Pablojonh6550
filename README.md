@@ -3,7 +3,7 @@
 ### <label>Welcome to my profile ヾ(⌐■_■)ノ</label>
   
 - 💻 Web Developer
-- :mortar_board: Fullstack Engineer
+- :mortar_board: Software Engineer
 - 🤓 Another geek lover of technology and fiction.
 ##
 
